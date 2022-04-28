@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim on Protos Musings</title>
+    <link>https://protoiyer.github.io/tags/vim/</link>
+    <description>Recent content in Vim on Protos Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2011 18:05:33 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim at 20: Simply the Best Text Editor</title>
+      <link>https://protoiyer.github.io/posts/vim-at-20-simply-the-best-text-editor/</link>
+      <pubDate>Fri, 04 Nov 2011 18:05:33 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/vim-at-20-simply-the-best-text-editor/</guid>
+      <description>Vim at 20: Simply the Best Text Editor
+Earlier this week, on November 2, 2011, the awesome Vim text editor turned 20 years old. Vim started its life, as many of you might be aware, as the clone or imitation of the venerable vi editor created by Bill Joy – who went on to cofound Sun Microsystems – for Unix. It is a tribute to the genius of Bill Joy that his core ideas are kicking and thriving even 35 years after he created vi.</description>
+    </item>
+    
+  </channel>
+</rss>

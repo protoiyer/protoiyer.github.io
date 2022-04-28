@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internet on Protos Musings</title>
+    <link>https://protoiyer.github.io/tags/internet/</link>
+    <description>Recent content in internet on Protos Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Dec 2008 12:57:21 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to be a better programmer - the redux</title>
+      <link>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/</link>
+      <pubDate>Mon, 22 Dec 2008 12:57:21 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/</guid>
+      <description>&amp;ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&amp;rdquo; &amp;ndash; Neal Ford
+It was in the December of 2005 that I first wrote about how to be a better programmer. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day.</description>
+    </item>
+    
+  </channel>
+</rss>

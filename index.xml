@@ -6,15 +6,110 @@
     <description>Recent content on Protos Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Feb 2006 18:05:33 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2011 18:05:33 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim at 20: Simply the Best Text Editor</title>
+      <link>https://protoiyer.github.io/posts/vim-at-20-simply-the-best-text-editor/</link>
+      <pubDate>Fri, 04 Nov 2011 18:05:33 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/vim-at-20-simply-the-best-text-editor/</guid>
+      <description>Vim at 20: Simply the Best Text Editor
+Earlier this week, on November 2, 2011, the awesome Vim text editor turned 20 years old. Vim started its life, as many of you might be aware, as the clone or imitation of the venerable vi editor created by Bill Joy – who went on to cofound Sun Microsystems – for Unix. It is a tribute to the genius of Bill Joy that his core ideas are kicking and thriving even 35 years after he created vi.</description>
+    </item>
+    
+    <item>
+      <title>Google Reader Redesign: The Way Forward</title>
+      <link>https://protoiyer.github.io/posts/google-reader-redesign-the-way-forward/</link>
+      <pubDate>Thu, 03 Nov 2011 18:05:33 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/google-reader-redesign-the-way-forward/</guid>
+      <description>Google Reader Redesign: The Way Forward
+This week Google rolled out the redesign of my favorite Google product - Google Reader. This was a much needed face-lift, no doubt – though I am not a fan of the new UI – and more importantly, from Google’s perspective, they were integrating one more service with Google+, the future of Google. This was supposed to make Reader more social, but ironically, in a perplexing move (at least, from the perspective of power users of Google Reader), Google ended up making Reader a less social, and a less useful product overall.</description>
+    </item>
+    
+    <item>
+      <title>Ten Years of Professional Programming</title>
+      <link>https://protoiyer.github.io/posts/ten-years-of-professional-programming/</link>
+      <pubDate>Fri, 11 Feb 2011 12:13:01 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/ten-years-of-professional-programming/</guid>
+      <description>_&amp;ldquo;Man thrives, oddly enough, only in the presence of a challenging environment.&amp;rdquo; _— L. Ron Hubbard
+“Be the worst guy in every band you’re in.” &amp;ndash; Pat Metheny
+“There are always two parties; the establishment and the movement.” &amp;ndash; Ralph Waldo Emerson
+Today I am completing the first decade of my career as a professional programmer, and I thought this was a good time to jot down a few thoughts and undertake a whirlwind tour of the last decade.</description>
+    </item>
+    
+    <item>
+      <title>2010 - The Year of Revival of Tech Book Reading</title>
+      <link>https://protoiyer.github.io/posts/2010-the-year-of-revival-of-tech-book-reading/</link>
+      <pubDate>Fri, 11 Feb 2011 12:00:01 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/2010-the-year-of-revival-of-tech-book-reading/</guid>
+      <description>2010 - The Year of Revival of Tech Book Reading
+As part of the get better initiative, I decided to find and spend time improving my knowledge, one book at a time. Though I would love to write a few lines about each book, for lack of time, I am just dumping the list here. But rest assured that each of them is a great book:
+January:
+ The Art of Unit Testing by @RoyOsherove</description>
+    </item>
+    
+    <item>
+      <title>How to be a better programmer - the redux 2</title>
+      <link>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux-part-2/</link>
+      <pubDate>Thu, 01 Jan 2009 20:25:09 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux-part-2/</guid>
+      <description>&amp;ldquo;Most programmers have only a vague notion of how competent they are at what they do for a living&amp;rdquo; &amp;ndash; Steve Yegge
+&amp;ldquo;Experience comes from practice&amp;rdquo; &amp;ndash; Andy Hunt
+I thought I was done and dusted having wrote that previous redux post about how to be a better programmer. But my good friend Subru had posted a comment that made me (as it does most of the time) take notice and do some thinking and research about the importance of study and practice in the career of programmers.</description>
+    </item>
+    
+    <item>
+      <title>How to be a better programmer - the redux</title>
+      <link>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/</link>
+      <pubDate>Mon, 22 Dec 2008 12:57:21 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/</guid>
+      <description>&amp;ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&amp;rdquo; &amp;ndash; Neal Ford
+It was in the December of 2005 that I first wrote about how to be a better programmer. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day.</description>
+    </item>
+    
+    <item>
+      <title>Professional Programmer and Domain Knowledge</title>
+      <link>https://protoiyer.github.io/posts/professional-programmer-and-domain-knowledge/</link>
+      <pubDate>Sun, 23 Apr 2006 19:44:36 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/professional-programmer-and-domain-knowledge/</guid>
+      <description>I have been working as a programmer for a little over 5 years now, and it was with great interest that I read the article What is a Professional Programmer, written by Sarah George, and hosted at DeveloperDotStar Magazine.
+I think I can say that I have been on the right path so far when I evaluate myself on the various parameters she has mentioned, viz., trustworthiness, teamwork, leadership, communication, constant updating of skills, an interest in minimizing risks and accountability.</description>
+    </item>
+    
     <item>
       <title>Dravid on the &#34;right&#34; people in a team</title>
-      <link>https://protoiyer.github.io/posts/my-first-post/</link>
+      <link>https://protoiyer.github.io/posts/dravid-on-the-right-people-in-a-team/</link>
       <pubDate>Sun, 26 Feb 2006 18:05:33 +0000</pubDate>
       
-      <guid>https://protoiyer.github.io/posts/my-first-post/</guid>
+      <guid>https://protoiyer.github.io/posts/dravid-on-the-right-people-in-a-team/</guid>
       <description>I was pondering over the last few days over having the right kind of people in a team, any team, including a Software Development team. It suddenly flashed in my mind that I had seen a quote attributed to Dravid somewhere on the same topic.
 At last, I figured it out. Dravid had given a rather absorbing interview to the Cricinfo magazine that appeared in the inaugural issue (Jan 2006 issue that had Dravid on the front cover) of the magazine.</description>
+    </item>
+    
+    <item>
+      <title>Seven Habits of Highly Effective Programmers</title>
+      <link>https://protoiyer.github.io/posts/seven-habits-of-highly-effective-programmers/</link>
+      <pubDate>Sun, 26 Feb 2006 17:17:03 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/seven-habits-of-highly-effective-programmers/</guid>
+      <description>Fantastic write-up on the seven habits that can help one grow as a better programmer. Aptly titled the Seven Habits of Highly Effective Programmers [web archive link here], it is written by someone who has been-there-done-that. A must read for any serious programmer, or someone who cares about the craft, especially if you work in a team. There are other articles too on that site, and so check them out as well.</description>
+    </item>
+    
+    <item>
+      <title>Becoming a better programmer</title>
+      <link>https://protoiyer.github.io/posts/becoming-a-better-programmer/</link>
+      <pubDate>Tue, 01 Nov 2005 08:27:53 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/posts/becoming-a-better-programmer/</guid>
+      <description>&amp;ldquo;Any fool can write code that a computer can understand. Good programmers write code that humans can understand.&amp;rdquo; &amp;ndash; Martin Fowler
+Programming the proper way
+I love programming, and I love programming the proper way. I belong to the school of thought that believes that programming is as much an art or a craft, as it is a science or an engineering. For me programming is not just another activity that humans do to make money.</description>
     </item>
     
   </channel>

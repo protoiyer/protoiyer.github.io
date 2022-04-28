@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>How to be a better programmer - the redux | Protos Musings</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="&ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&rdquo; &ndash; Neal Ford
+It was in the December of 2005 that I first wrote about how to be a better programmer. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day.">
+    <meta name="generator" content="Hugo 0.97.3" />
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="How to be a better programmer - the redux" />
+<meta property="og:description" content="&ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&rdquo; &ndash; Neal Ford
+It was in the December of 2005 that I first wrote about how to be a better programmer. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2008-12-22T12:57:21+00:00" />
+<meta property="article:modified_time" content="2008-12-22T12:57:21+00:00" />
+
+<meta itemprop="name" content="How to be a better programmer - the redux">
+<meta itemprop="description" content="&ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&rdquo; &ndash; Neal Ford
+It was in the December of 2005 that I first wrote about how to be a better programmer. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day."><meta itemprop="datePublished" content="2008-12-22T12:57:21+00:00" />
+<meta itemprop="dateModified" content="2008-12-22T12:57:21+00:00" />
+<meta itemprop="wordCount" content="2279">
+<meta itemprop="keywords" content="computers,football,internet,Programming,Random Ramblings," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to be a better programmer - the redux"/>
+<meta name="twitter:description" content="&ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&rdquo; &ndash; Neal Ford
+It was in the December of 2005 that I first wrote about how to be a better programmer. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day."/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Protos Musings
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">How to be a better programmer - the redux</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2008-12-22T12:57:21Z">December 22, 2008</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><em>&ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&rdquo; &ndash;</em> <a href="http://memeagora.blogspot.com/">Neal Ford</a></p>
+<p>It was in the December of 2005 that I first wrote about <a href="http://protoiyer.github.io/2005/11/01/becoming-a-better-programmer/">how to be a better programmer</a>. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day. As important as these issues were (are), I guess there is a larger issue that must be addressed &ndash; the technical skill set of the programmers. Then I wrote about (nay, linked to) the <a href="http://www.removingalldoubt.com/permalink.aspx/a32977e2-cb7d-42ea-9d25-5e539423affd">fatherly advice to new programmers</a> (<a href="https://web.archive.org/web/20061017124921/http://www.removingalldoubt.com/permalink.aspx/a32977e2-cb7d-42ea-9d25-5e539423affd">web archive link</a>) by Chuck Jazdzewski.</p>
+<p>I am now into my eighth year as a programmer, and unfortunately, the rate at which the industry has understood the importance of the quality of code or for that matter about issues like code readability or code maintainability is pretty dismal. This might be justified by arguments like &ldquo;in service industry, deadline is more important&rdquo;. But people just don&rsquo;t understand that in the rush to push the software out of the door, the quality of the code suffers, which directly affects how quickly you can ship the second or later versions. To make matters worse, people who can really understand the code at a deep level, and who are really interested in programming, is a minority, and I guess it would remain that way for the foreseeable future.</p>
+<p>The triggering point for writing that piece three years ago was a mail from my counterpart in UK, who wanted the team to ensure that they are putting comments properly, and (though he didn&rsquo;t explicitly mention the words, he provided an example that pointed to writing) comment at the level of intent. I am not sure how many people read that post (considering that I find it difficult to tell people that I blog; except to my close friends and family), but at least from that day, I made it a point to tell my team members the importance of writing code the proper way, and when required, show them how it is done. The triggering point for writing this has been yet another series of events. I thought it was time I write this down, so that a) I can refer back when I want to, and, b) pass this on to anyone to whom I feel like preaching in the future :).</p>
+<p>The first and the most important aspect to become a better programmer is to have something called interest or involvement. Half the crowd I meet are programming just for the sake of doing some work. Programming, unfortunately, is not similar to doing most other jobs where you learn and master something once, and you can carry on without learning anything new for quite some time, and in some cases, for years altogether (or for life). Careers that spring to my mind include Government Service, Accountancy, Banking, Teaching, and certain professions like certain streams of Engineering and Law. Of course, in each of these cases, there is something new to learn every year (or every few years), but compared to the frequency at which things change, and the effort involved to keep ahead of the curve, they do appear trivial and manageable. [I know this is going to be a controversial perspective, but being a Mechanical Engineer and being someone who has a passion for teaching, and who dreamt about doing M.Tech and becoming a professor, I hope I know what I am talking about here]. Anyways, I don&rsquo;t mean any kind of disrespect to any of the professions. I am just pointing out the fact that you don&rsquo;t have to explicitly sit down and read a few books on your subject to remain good in many a profession out there.</p>
+<p>In programming, what you know today is of little or no use two years down the line. I remember reading way back in 2002 about an interesting incident narrated by David Chappell in his book, Understanding Dotnet, First Edition. Chappell was taking a session on DCOM (if I remember right) at Moscow, when someone in the crowd got up and asked him why is that Microsoft is changing the technology every few years, and how he is finding it difficult to cope up with that. Chappell told him, as a matter of fact, that if he finds the change difficult to cope with, he is perhaps in the wrong profession. I wish we could make more programmers understand this simple fact - the fact that in this profession one can&rsquo;t stop learning. In fact the number of <a href="http://www.construx.com/Page.aspx?hid=1005">programmers who have read any of the top 25 books</a> on programming or software would be less than 10%. This might be an example of the Sturgeon’s Law (that 90% of people will never care and 10% of people would cover up for them in most professions).</p>
+<p>To make matters interesting the IT industry doesn&rsquo;t quite teach them that programming is important, and I live in a society, where if I tell them I am programming in the eighth year of my career, people think I am a (lowly) programmer still, perhaps because I don&rsquo;t have what it takes to be a manager or a team leader who mostly takes care of team management related activities. The trend is to learn programming at the level of writing if..else, for..do and yes, playing around a bit with something called objects (without really understanding what they actually are and what they are meant to be), and do programming for four or five years, all the while remaining at that basic level, never bothering to go out of the way to improve oneself, and jump on the management related bandwagon at the first possible instance.</p>
+<p>This is where some of the most successful companies around the world stand out, and it is not a coincidence that most of them are run by people who were great programmers, and who still love and do programming. The best example would be Google and I can never forget the <a href="http://www.wired.com/techbiz/it/magazine/16-10/mf_chrome?currentPage=all">beauty of this story</a> and what it tells you about the company (or the story of how <a href="http://too.blogspot.com/">Sergey Brin</a> wrote an application to test Android, and the application was about using the accelerometer in the device to determine the time <a href="http://www.informationweek.com/blog/main/archives/2008/09/sergey_brin_im.html">an Android phone was in the air</a> <a href="http://bits.blogs.nytimes.com/2008/09/23/live-blogging-from-google-phone-event/">when it is tossed up</a>; the point is there are very talented programmers at the top who are really interested in coding in spite of being so successful), though there are quite a few others like <a href="http://www.microsoft.com/en/us/default.aspx">Microsoft</a>, <a href="http://martinfowler.com/">Martin Fowler&rsquo;s</a> <a href="http://www.thoughtworks.com/">ThoughtWorks</a>, <a href="http://www.joelonsoftware.com/">Joel Spolsky&rsquo;s</a> <a href="http://www.fogcreek.com/">Fog Creek Software</a>, and <a href="http://www.stevemcconnell.com/">Steve McConnell&rsquo;s</a> <a href="http://www.construx.com/">Construx Software</a>. Construx has published the <a href="http://www.construx.com/Page.aspx?hid=1004">Construx Professional Ladder</a> for its employees who aspire to move up the corporate heirarchy (the ladder), and the best part is that it ensures that those who grow to be the Team Leads or Managers, are people who are widely read, and who have understood the nuances of programming, and can still solve the problem, if the programmers are not able to solve it.</p>
+<p>To put matters in perspective, check <a href="http://www.construx.com/Page.aspx?hid=981">this recommended reading list</a> for a Level 10 programmer at Construx. Please note that Level 10 is not the Architect or the Technical Leader. It is the programmer with some experience (&ldquo;College graduates will generally start at Level 9. Experienced developers may start at Level 10&rdquo;). That might appear a bit over the top by your or my standards, but that tells you what separates the great companies from the merely good or average ones &ndash; it is the quality of the people. I think it was Kent Beck (in Extreme Programming Explained, Second Edition) who said something along the lines of &ldquo;a more talented team will almost always beat an average or less talented team, no matter how disciplined and process oriented the average or less talented team is, and you can&rsquo;t do much about it&rdquo;. A cruel (for me, at least) example of that in the wild is watching the Germans end up as the runners up (or loosing semi finalists) at the World Cups in 2002 and 2006, and in Euro 2008. With a bit more talent (or a bit more botch-up by the opposition, they could have won any of those events).</p>
+<p>To be a good programmer, one needs to have a good grasp of the fundamentals of programming (and there is no better language to learn this than C followed by C++, though that unfortunately is out of fashion these days). This must be followed by learning a modern mainstream programming language like Java or C#. But if you start with either Java or C#, you would miss quite a bit on really understanding pointers and objects at a fundamental level. This must be followed by learning, reading and eventually mastering OOAD, UML, Refactoring and Design Patterns. It will be really useful if one can find the time to explore and learn dynamic programming languages like Python or Ruby, as they bring a different perspective to programming, thus enriching one&rsquo;s knowledge and understanding.</p>
+<p>Yet another mandatory aspect going forward would be exposure to Agile methodologies (don&rsquo;t think I am crazy, but there is a big crowd out there that doesn&rsquo;t understand what is agile). Even if the team is not 100% agile, there is a lot to learn from the agile community. If anyone has any doubt about agile, the only thing to keep in mind that the top guys of the Design Patterns movement are also the people who were the forefathers of the Agile movement &ndash; people like Ward Cunningham, Kent Beck, Eric Gamma, Martin Fowler, Alistair Cockburn, Dave Thomas and Andy Hunt to name a few that I can recollect over the top of my head. Since each of them are titans in their own rights, there must be something in it for us to learn.</p>
+<p>The best part of this learning, IMHO, is that it leaves one in such a strong position to negotiate most of the stuff that comes one&rsquo;s way - a bit like how Dravid could easily and with grace negotiate the unplayable deliveries from the Donalds, McGraths, Pollocks and Waqars of this world, in his pomp, in spite of not having grown up facing them or anyone of their calibre. This was made possible by the fact that in spite of not being a genius like Sachin or Lara, he kept on working on his game, improved every day as a batsman by putting in the effort, and thinking about his game. [I wrote this without being aware of the match saving 100 he made at Mohali].</p>
+<p>The best resource that I am aware of to learn the basics of the aforementioned stuff , that I am aware of, is listed below. These books helped me immensely in my development as a professional, and I hope at least some of you can and will find them useful.</p>
+<p>Programming Language basics:</p>
+<p><a href="http://en.wikipedia.org/wiki/The_C_Programming_Language_(book)">The C Programming Language</a> by Kerninghan and Ritchie (the K&amp;R book)</p>
+<p><a href="http://public.research.att.com/~bs/3rd.html">The C++ Programming Language</a> by Bjarne Stroustrup (it is a tome, but worth every minute of your time)</p>
+<p><a href="http://java.sun.com/docs/books/javaprog/">The Java Programming Language</a> by James Gosling et al (a beautiful book)</p>
+<p><a href="http://www.mindview.net/Books/TIJ4">Thinking in Java</a> by Bruce Eckel (or the unpublished C# version freely available on the net)</p>
+<p>Design basics:</p>
+<p><a href="http://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/020165783X">UML Distilled</a> by Martin Fowler</p>
+<p><a href="http://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology/dp/0201485672">Refactoring</a> by Martin Fowler</p>
+<p><a href="http://www.amazon.com/Applying-UML-Patterns-Craig-Larman/dp/0137488807">Applying UML and Patterns</a> by Craig Larman</p>
+<p><a href="http://www.amazon.com/Object-Oriented-Analysis-Yourdon-Computing/dp/0136299814">Object Oriented Analysis</a> by Peter Coad and Edward Yourdon</p>
+<p><a href="http://www.amazon.com/Object-Oriented-Design-Yourdon-Press-Peter/dp/0136300707">Object Oriented Design</a> by Peter Coad and Edward Yourdon</p>
+<p>Design Patterns:</p>
+<p>Design Patterns by Gamma et al. [the GoF book; I am yet to read this as it is in C++]</p>
+<p><a href="http://headfirstlabs.com/books/hfdp/">Head First Design Patterns</a> by Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates</p>
+<p><a href="http://www.amazon.com/Design-Patterns-Explained-Perspective-Object-Oriented/dp/0201715945">Design Patterns Explained</a> by Alan Shalloway and James R. Trott</p>
+<p>Taking the skills to the next level:</p>
+<p><a href="http://cc2e.com/">Code Complete</a> by Steve McConnell, Second Edition</p>
+<p><a href="http://www.pragprog.com/the-pragmatic-programmer">The Pragmatic Programmer</a> by Andy Hunt and Dave Thomas</p>
+<p><a href="http://www.mcbreen.ab.ca/SoftwareCraftsmanship/">Software Craftsmanship: The New Imperative</a> by Pete McBreen</p>
+<p>Books on Agile:</p>
+<p><a href="http://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=pd_lpo_k2_dp_k2a_3_txt/177-1090539-0987205?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=lpo-top-stripe-2&amp;pf_rd_r=1ZMQX4Q1RCWFFP6PV2Y3&amp;pf_rd_t=201&amp;pf_rd_p=304485601&amp;pf_rd_i=0201616416">Extreme Programming Explained: Embrace Change, Second Edition</a>, by Kent Beck (there are two editions and it is fascinating to read both back to back :)</p>
+<p><a href="http://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751">Agile Software Development: The Cooperative Game, Second Edition</a>, by Alistair Cockburn</p>
+<p>There are no shortcuts to mastery in any field, and software is no different. Unless you read some of the above books, you wouldn&rsquo;t even know what all you miss (in terms of knowledge and skills missing from your toolbox). Again, this must be supplemented by some real hard work at the PC &ndash; programming, trying to implement and refine what one has learned. As the old saying goes, there is no substitute for practice.</p>
+<p>Next, since we live in a society, we do need to work upon our soft skills, and people interaction skills come right at the top of the skills to acquire. One of the best resource to learn from this would be <a href="http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671723650">How to win friends and influence people</a> by Dale Carnegie, as attested by both Jeff Atwood and Steve McConnell. In fact, if I remember right, McConnell writes something along the lines of &ldquo;it must be made a mandatory book for every member of the team&rdquo;. How true!</p>
+<p>Internet is such a free and ever available source to learn new stuff. In addition to reading MSDN or other technology oriented sites, read the great programmer&rsquo;s blogs and learn from the masters. Let <a href="http://www.google.com/reader">Google Reader</a> be your best friend in this attempt. It has been for me, for three years now.</p>
+<p>Update [14-Jan-09]: cleaned up the essay a bit and included a few more links in the story.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/computers" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">computers</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/football" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">football</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/internet" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">internet</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/programming" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Programming</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/random-ramblings" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Random Ramblings</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/professional-programmer-and-domain-knowledge/">Professional Programmer and Domain Knowledge</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/dravid-on-the-right-people-in-a-team/">Dravid on the &#34;right&#34; people in a team</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/seven-habits-of-highly-effective-programmers/">Seven Habits of Highly Effective Programmers</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/becoming-a-better-programmer/">Becoming a better programmer</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://protoiyer.github.io/" >
+    &copy;  Protos Musings 2022 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
