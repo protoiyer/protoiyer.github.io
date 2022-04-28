@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Protos Musings</title>
+    <link>https://protoiyer.github.io/tags/</link>
+    <description>Recent content in Tags on Protos Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Feb 2006 18:05:33 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cricket</title>
+      <link>https://protoiyer.github.io/tags/cricket/</link>
+      <pubDate>Sun, 26 Feb 2006 18:05:33 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/tags/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://protoiyer.github.io/tags/programming/</link>
+      <pubDate>Sun, 26 Feb 2006 18:05:33 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Ramblings</title>
+      <link>https://protoiyer.github.io/tags/random-ramblings/</link>
+      <pubDate>Sun, 26 Feb 2006 18:05:33 +0000</pubDate>
+      
+      <guid>https://protoiyer.github.io/tags/random-ramblings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
