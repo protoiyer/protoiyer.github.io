@@ -4,113 +4,86 @@
     <title>Protos Musings</title>
     <link>https://protoiyer.github.io/</link>
     <description>Recent content on Protos Musings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2011 18:05:33 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2011 18:05:33 +0000</lastBuildDate>
+    <atom:link href="https://protoiyer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim at 20: Simply the Best Text Editor</title>
       <link>https://protoiyer.github.io/posts/vim-at-20-simply-the-best-text-editor/</link>
       <pubDate>Fri, 04 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/vim-at-20-simply-the-best-text-editor/</guid>
-      <description>Vim at 20: Simply the Best Text Editor
-Earlier this week, on November 2, 2011, the awesome Vim text editor turned 20 years old. Vim started its life, as many of you might be aware, as the clone or imitation of the venerable vi editor created by Bill Joy – who went on to cofound Sun Microsystems – for Unix. It is a tribute to the genius of Bill Joy that his core ideas are kicking and thriving even 35 years after he created vi.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Vim at 20: Simply the Best Text Editor&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Earlier this week, on November 2, 2011, the awesome &lt;a href=&#34;http://www.vim.org/&#34;&gt;Vim text editor&lt;/a&gt; turned 20 years old. Vim started its life, as many of you might be aware, as the clone or imitation of the venerable vi editor created by &lt;a href=&#34;http://www.theregister.co.uk/2003/09/11/bill_joys_greatest_gift/&#34;&gt;Bill Joy&lt;/a&gt; – who went on to cofound Sun Microsystems – for Unix. It is a tribute to the genius of Bill Joy that his core ideas are kicking and thriving even 35 years after he created vi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google Reader Redesign: The Way Forward</title>
       <link>https://protoiyer.github.io/posts/google-reader-redesign-the-way-forward/</link>
       <pubDate>Thu, 03 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/google-reader-redesign-the-way-forward/</guid>
-      <description>Google Reader Redesign: The Way Forward
-This week Google rolled out the redesign of my favorite Google product - Google Reader. This was a much needed face-lift, no doubt – though I am not a fan of the new UI – and more importantly, from Google’s perspective, they were integrating one more service with Google+, the future of Google. This was supposed to make Reader more social, but ironically, in a perplexing move (at least, from the perspective of power users of Google Reader), Google ended up making Reader a less social, and a less useful product overall.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Google Reader Redesign: The Way Forward&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This week Google rolled out the redesign of my favorite Google product - Google Reader. This was a much needed face-lift, no doubt – though I am not a fan of the new UI – and more importantly, from Google’s perspective, they were integrating one more service with Google+, the future of Google. This was supposed to make Reader more social, but ironically, in a perplexing move (at least, from the perspective of power users of Google Reader), Google ended up making Reader a less social, and a less useful product overall.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Setting up my Linux box and Ruby on Rails development environment</title>
+      <link>https://protoiyer.github.io/posts/setting-up-linux-11.04-ror/</link>
+      <pubDate>Mon, 16 May 2011 09:57:43 +0000</pubDate>
+      <guid>https://protoiyer.github.io/posts/setting-up-linux-11.04-ror/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;As many of you might be aware, I have been a fan of the Ruby language for a few years now, and though I had read a bit about Rails, I started learning and using it on a daily basis only during the past 8 to 10 weeks. Coming to the world of Linux from Windows has been liberating, especially for a keyboard junkie like me. Plus I just love the fact that I can invert the color of any/all window by pressing WindowsKey+N or WindowsKey+M. That is just super awesome!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ten Years of Professional Programming</title>
       <link>https://protoiyer.github.io/posts/ten-years-of-professional-programming/</link>
       <pubDate>Fri, 11 Feb 2011 12:13:01 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/ten-years-of-professional-programming/</guid>
-      <description>_&amp;ldquo;Man thrives, oddly enough, only in the presence of a challenging environment.&amp;rdquo; _— L. Ron Hubbard
-“Be the worst guy in every band you’re in.” &amp;ndash; Pat Metheny
-“There are always two parties; the establishment and the movement.” &amp;ndash; Ralph Waldo Emerson
-Today I am completing the first decade of my career as a professional programmer, and I thought this was a good time to jot down a few thoughts and undertake a whirlwind tour of the last decade.</description>
+      <description>&lt;p&gt;_&amp;ldquo;Man thrives, oddly enough, only in the presence of a challenging environment.&amp;rdquo; _— &lt;a href=&#34;http://en.wikipedia.org/wiki/L._Ron_Hubbard&#34;&gt;L. Ron Hubbard&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“Be the worst guy in every band you’re in.”&lt;/em&gt; &amp;ndash; &lt;a href=&#34;http://apprenticeship-patterns.labs.oreilly.com/ch04.html#be_the_worst&#34;&gt;Pat Metheny&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“There are always two parties; the establishment and the movement.”&lt;/em&gt; &amp;ndash; &lt;a href=&#34;http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson&#34;&gt;Ralph Waldo Emerson&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Today I am completing the first decade of my career as a professional programmer, and I thought this was a good time to jot down a few thoughts and undertake a whirlwind tour of the last decade. It is just a sweet and pure coincidence that I am sharing &lt;a href=&#34;http://10yearsagile.org/&#34;&gt;the tenth anniversary&lt;/a&gt; with the &lt;a href=&#34;http://agilemanifesto.org/&#34;&gt;agile manifesto&lt;/a&gt; &amp;ndash; it was signed on the day I turned pro! And one of the goals is to see whether I can keep this post short!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2010 - The Year of Revival of Tech Book Reading</title>
       <link>https://protoiyer.github.io/posts/2010-the-year-of-revival-of-tech-book-reading/</link>
       <pubDate>Fri, 11 Feb 2011 12:00:01 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/2010-the-year-of-revival-of-tech-book-reading/</guid>
-      <description>2010 - The Year of Revival of Tech Book Reading
-As part of the get better initiative, I decided to find and spend time improving my knowledge, one book at a time. Though I would love to write a few lines about each book, for lack of time, I am just dumping the list here. But rest assured that each of them is a great book:
-January:
- The Art of Unit Testing by @RoyOsherove</description>
+      <description>&lt;p&gt;&lt;strong&gt;2010 - The Year of Revival of Tech Book Reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As part of the get better initiative, I decided to find and spend time improving my knowledge, one book at a time. Though I would love to write a few lines about each book, for lack of time, I am just dumping the list here. But rest assured that each of them is a great book:&lt;/p&gt;&#xA;&lt;p&gt;January:&lt;/p&gt;&#xA;&lt;p&gt;  &lt;a href=&#34;http://artofunittesting.com/&#34;&gt;The Art of Unit Testing&lt;/a&gt; by @&lt;a href=&#34;http://twitter.com/RoyOsherove&#34;&gt;RoyOsherove&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to be a better programmer - the redux 2</title>
       <link>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux-part-2/</link>
       <pubDate>Thu, 01 Jan 2009 20:25:09 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux-part-2/</guid>
-      <description>&amp;ldquo;Most programmers have only a vague notion of how competent they are at what they do for a living&amp;rdquo; &amp;ndash; Steve Yegge
-&amp;ldquo;Experience comes from practice&amp;rdquo; &amp;ndash; Andy Hunt
-I thought I was done and dusted having wrote that previous redux post about how to be a better programmer. But my good friend Subru had posted a comment that made me (as it does most of the time) take notice and do some thinking and research about the importance of study and practice in the career of programmers.</description>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Most programmers have only a vague notion of how competent they are at what they do for a living&amp;rdquo;&lt;/em&gt; &amp;ndash; &lt;a href=&#34;http://steve-yegge.blogspot.com/&#34;&gt;Steve Yegge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Experience comes from practice&amp;rdquo;&lt;/em&gt; &amp;ndash; &lt;a href=&#34;http://blog.toolshed.com/&#34;&gt;Andy Hunt&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I thought I was done and dusted having wrote &lt;a href=&#34;https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/&#34;&gt;that previous redux post&lt;/a&gt; about how to be a better programmer. But my good friend Subru had posted a comment that made me (as it does most of the time) take notice and do some thinking and research about the importance of study and practice in the career of programmers. I did that since it has a direct impact on the topic I have been harping about &amp;ndash; the talent of the programmers like me, or the lack of it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to be a better programmer - the redux</title>
       <link>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/</link>
       <pubDate>Mon, 22 Dec 2008 12:57:21 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/how-to-be-a-better-programmer-the-redux/</guid>
-      <description>&amp;ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&amp;rdquo; &amp;ndash; Neal Ford
-It was in the December of 2005 that I first wrote about how to be a better programmer. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day.</description>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Software development productivity would skyrocket if the least effective 30% were fired tomorrow&amp;rdquo; &amp;ndash;&lt;/em&gt; &lt;a href=&#34;http://memeagora.blogspot.com/&#34;&gt;Neal Ford&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It was in the December of 2005 that I first wrote about &lt;a href=&#34;http://protoiyer.github.io/posts/becoming-a-better-programmer/&#34;&gt;how to be a better programmer&lt;/a&gt;. At that time I was into my fifth year as a programmer, and though I wanted to write what I am writing today, I decided to narrow down my scope to non-technical issues. I wrote about code readability and code maintainability that day. As important as these issues were (are), I guess there is a larger issue that must be addressed &amp;ndash; the technical skill set of the programmers. Then I wrote about (nay, linked to) the &lt;a href=&#34;http://www.removingalldoubt.com/permalink.aspx/a32977e2-cb7d-42ea-9d25-5e539423affd&#34;&gt;fatherly advice to new programmers&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20061017124921/http://www.removingalldoubt.com/permalink.aspx/a32977e2-cb7d-42ea-9d25-5e539423affd&#34;&gt;web archive link&lt;/a&gt;) by Chuck Jazdzewski.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Professional Programmer and Domain Knowledge</title>
       <link>https://protoiyer.github.io/posts/professional-programmer-and-domain-knowledge/</link>
       <pubDate>Sun, 23 Apr 2006 19:44:36 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/professional-programmer-and-domain-knowledge/</guid>
-      <description>I have been working as a programmer for a little over 5 years now, and it was with great interest that I read the article What is a Professional Programmer, written by Sarah George, and hosted at DeveloperDotStar Magazine.
-I think I can say that I have been on the right path so far when I evaluate myself on the various parameters she has mentioned, viz., trustworthiness, teamwork, leadership, communication, constant updating of skills, an interest in minimizing risks and accountability.</description>
+      <description>&lt;p&gt;I have been working as a programmer for a little over 5 years now, and it was with great interest that I read the article &lt;a href=&#34;http://www.developerdotstar.com/mag/articles/software_professionalism.html&#34;&gt;What is a Professional Programmer&lt;/a&gt;, written by Sarah George, and hosted at &lt;a href=&#34;http://www.developerdotstar.com/&#34;&gt;DeveloperDotStar&lt;/a&gt; &lt;a href=&#34;http://www.developerdotstar.com/mag/articles_top.html&#34;&gt;Magazine&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I think I can say that I have been on the right path so far when I evaluate myself on the various parameters she has mentioned, viz., trustworthiness, teamwork, leadership, communication, constant updating of skills, an interest in minimizing risks and accountability.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dravid on the &#34;right&#34; people in a team</title>
       <link>https://protoiyer.github.io/posts/dravid-on-the-right-people-in-a-team/</link>
       <pubDate>Sun, 26 Feb 2006 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/dravid-on-the-right-people-in-a-team/</guid>
-      <description>I was pondering over the last few days over having the right kind of people in a team, any team, including a Software Development team. It suddenly flashed in my mind that I had seen a quote attributed to Dravid somewhere on the same topic.
-At last, I figured it out. Dravid had given a rather absorbing interview to the Cricinfo magazine that appeared in the inaugural issue (Jan 2006 issue that had Dravid on the front cover) of the magazine.</description>
+      <description>&lt;p&gt;I was pondering over the last few days over having the right kind of people in a team, &lt;em&gt;any&lt;/em&gt; team, including a Software Development team. It suddenly flashed in my mind that I had seen a quote attributed to Dravid somewhere on the same topic.&lt;/p&gt;&#xA;&lt;p&gt;At last, I figured it out. Dravid had given a rather absorbing interview to the Cricinfo magazine that appeared in the inaugural issue (Jan 2006 issue that had Dravid on the front cover) of the magazine. This was what I was looking for:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Seven Habits of Highly Effective Programmers</title>
       <link>https://protoiyer.github.io/posts/seven-habits-of-highly-effective-programmers/</link>
       <pubDate>Sun, 26 Feb 2006 17:17:03 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/seven-habits-of-highly-effective-programmers/</guid>
-      <description>Fantastic write-up on the seven habits that can help one grow as a better programmer. Aptly titled the Seven Habits of Highly Effective Programmers [web archive link here], it is written by someone who has been-there-done-that. A must read for any serious programmer, or someone who cares about the craft, especially if you work in a team. There are other articles too on that site, and so check them out as well.</description>
+      <description>&lt;p&gt;Fantastic write-up on the seven habits that can help one grow as a better programmer. Aptly titled the &lt;a href=&#34;http://www.technicat.com/writing/programming.html&#34; title=&#34;Seven Habits of Highly Effective Programmers&#34;&gt;Seven Habits of Highly Effective Programmers&lt;/a&gt; [web archive &lt;a href=&#34;http://web.archive.org/web/20040606015543/http://www.technicat.com/writing/programming.html&#34;&gt;link here&lt;/a&gt;], it is written by someone who has &lt;em&gt;been-there-done-that&lt;/em&gt;. A must read for any serious programmer, or someone who cares about the craft, especially if you work in a team. There are other articles too on that site, and so check them out as well. But this is the best of the lot, as they say.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Becoming a better programmer</title>
       <link>https://protoiyer.github.io/posts/becoming-a-better-programmer/</link>
       <pubDate>Tue, 01 Nov 2005 08:27:53 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/becoming-a-better-programmer/</guid>
-      <description>&amp;ldquo;Any fool can write code that a computer can understand. Good programmers write code that humans can understand.&amp;rdquo; &amp;ndash; Martin Fowler
-Programming the proper way
-I love programming, and I love programming the proper way. I belong to the school of thought that believes that programming is as much an art or a craft, as it is a science or an engineering. For me programming is not just another activity that humans do to make money.</description>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Any fool can write code that a computer can understand. Good programmers write code that humans can understand.&amp;rdquo; &amp;ndash;&lt;/em&gt; &lt;a href=&#34;http://www.martinfowler.com/&#34; title=&#34;Protos&#39; Musings - Homepage of Martin Fowler&#34;&gt;Martin Fowler&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programming the proper way&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I love programming, and I love programming the &lt;em&gt;proper way&lt;/em&gt;. I belong to the school of thought that believes that programming is as much &lt;a href=&#34;http://www.developerdotstar.com/mag/bookreviews/bitner_craftsmanship.html&#34; title=&#34;Protos&#39; Musings - Review of &#34;&gt;an art or a craft&lt;/a&gt;, as it is &lt;a href=&#34;http://www.sei.cmu.edu/sei-home.html&#34; title=&#34;Protos&#39; Musings - The Carnegie Mellon Software Engineering Institute (SEI)&#34;&gt;a science or an engineering&lt;/a&gt;. For me programming is not just another activity that humans do to make money. It is my passion! Of course, I do earn money by way of programming, but then there is nothing wrong with that.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,89 +4,72 @@
     <title>Tags on Protos Musings</title>
     <link>https://protoiyer.github.io/tags/</link>
     <description>Recent content in Tags on Protos Musings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2011 18:05:33 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2011 18:05:33 +0000</lastBuildDate>
+    <atom:link href="https://protoiyer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming</title>
       <link>https://protoiyer.github.io/tags/programming/</link>
       <pubDate>Fri, 04 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/programming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Random Ramblings</title>
       <link>https://protoiyer.github.io/tags/random-ramblings/</link>
       <pubDate>Fri, 04 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/random-ramblings/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Vim</title>
       <link>https://protoiyer.github.io/tags/vim/</link>
       <pubDate>Fri, 04 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/vim/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Google</title>
       <link>https://protoiyer.github.io/tags/google/</link>
       <pubDate>Thu, 03 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/google/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RSS</title>
       <link>https://protoiyer.github.io/tags/rss/</link>
       <pubDate>Thu, 03 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/rss/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>computers</title>
+      <title>Computers</title>
       <link>https://protoiyer.github.io/tags/computers/</link>
       <pubDate>Mon, 22 Dec 2008 12:57:21 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/computers/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>football</title>
+      <title>Football</title>
       <link>https://protoiyer.github.io/tags/football/</link>
       <pubDate>Mon, 22 Dec 2008 12:57:21 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/football/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>internet</title>
+      <title>Internet</title>
       <link>https://protoiyer.github.io/tags/internet/</link>
       <pubDate>Mon, 22 Dec 2008 12:57:21 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/internet/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cricket</title>
       <link>https://protoiyer.github.io/tags/cricket/</link>
       <pubDate>Sun, 26 Feb 2006 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/tags/cricket/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -4,18 +4,16 @@
     <title>Google on Protos Musings</title>
     <link>https://protoiyer.github.io/tags/google/</link>
     <description>Recent content in Google on Protos Musings</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2011 18:05:33 +0000</lastBuildDate><atom:link href="https://protoiyer.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Nov 2011 18:05:33 +0000</lastBuildDate>
+    <atom:link href="https://protoiyer.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Reader Redesign: The Way Forward</title>
       <link>https://protoiyer.github.io/posts/google-reader-redesign-the-way-forward/</link>
       <pubDate>Thu, 03 Nov 2011 18:05:33 +0000</pubDate>
-      
       <guid>https://protoiyer.github.io/posts/google-reader-redesign-the-way-forward/</guid>
-      <description>Google Reader Redesign: The Way Forward
-This week Google rolled out the redesign of my favorite Google product - Google Reader. This was a much needed face-lift, no doubt – though I am not a fan of the new UI – and more importantly, from Google’s perspective, they were integrating one more service with Google+, the future of Google. This was supposed to make Reader more social, but ironically, in a perplexing move (at least, from the perspective of power users of Google Reader), Google ended up making Reader a less social, and a less useful product overall.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Google Reader Redesign: The Way Forward&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This week Google rolled out the redesign of my favorite Google product - Google Reader. This was a much needed face-lift, no doubt – though I am not a fan of the new UI – and more importantly, from Google’s perspective, they were integrating one more service with Google+, the future of Google. This was supposed to make Reader more social, but ironically, in a perplexing move (at least, from the perspective of power users of Google Reader), Google ended up making Reader a less social, and a less useful product overall.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
