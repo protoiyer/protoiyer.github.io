@@ -6,10 +6,17 @@
     <description>Recent content on Protos Musings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 May 2012 14:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 22:35:20 +0000</lastBuildDate>
     <atom:link href="https://protoiyer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setting up my Linux Box and Ruby on Rails - Ubuntu 12.04 Edition</title>
+      <title>Setting up my Macbook development environment</title>
+      <link>https://protoiyer.github.io/posts/setting-up-macbook/</link>
+      <pubDate>Tue, 30 Oct 2018 22:35:20 +0000</pubDate>
+      <guid>https://protoiyer.github.io/posts/setting-up-macbook/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;A blog post after 6 long years. Yay!&lt;/p&gt;&#xA;&lt;p&gt;Recently I had to setup my personal Macbook and migrate some stuff from the previous machine.&lt;/p&gt;&#xA;&lt;p&gt;In the past, I had written &lt;a href=&#34;https://protoiyer.github.io/posts/setting-up-linux-12.04-ror/&#34;&gt;more in-depth posts&lt;/a&gt; about setting up my laptop for programming. What follows is the quick 2018 version for my future reference.&lt;/p&gt;&#xA;&lt;p&gt;Let us get the ball rolling!&lt;/p&gt;&#xA;&lt;h3 id=&#34;basic-machine-setup&#34;&gt;Basic Machine Setup&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;A. IR Black theme&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Get &lt;a href=&#34;https://osxdaily.com/2012/02/24/ir_black-theme-add-colors-easily-to-the-terminal-in-mac-os-x/&#34;&gt;IR Black theme&lt;/a&gt; for the Terminal. The link in that article to download the theme file doesn&amp;rsquo;t work anymore, and so we can &lt;a href=&#34;https://www.google.com/search?q=mac+ir_black+theme+for+terminal&#34;&gt;Google&lt;/a&gt; to locate it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting up my Linux box and Ruby on Rails - Ubuntu 12.04 Edition</title>
       <link>https://protoiyer.github.io/posts/setting-up-linux-12.04-ror/</link>
       <pubDate>Wed, 02 May 2012 14:35:16 +0000</pubDate>
       <guid>https://protoiyer.github.io/posts/setting-up-linux-12.04-ror/</guid>
