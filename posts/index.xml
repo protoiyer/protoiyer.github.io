@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Protos Musings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2011 18:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2012 14:35:16 +0000</lastBuildDate>
     <atom:link href="https://protoiyer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up my Linux Box and Ruby on Rails - Ubuntu 12.04 Edition</title>
+      <link>https://protoiyer.github.io/posts/setting-up-linux-12.04-ror/</link>
+      <pubDate>Wed, 02 May 2012 14:35:16 +0000</pubDate>
+      <guid>https://protoiyer.github.io/posts/setting-up-linux-12.04-ror/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;About a year ago, I had &lt;a href=&#34;https://protoiyer.github.io/posts/setting-up-linux-11.04-ror/&#34;&gt;posted in depth&lt;/a&gt; about my love for Ruby, and how I set up my Linux box on Ubuntu 10.10, including how to set up Ruby on Rails in that environment.&lt;/p&gt;&#xA;&lt;p&gt;Well the time has come for an update for &lt;a href=&#34;https://ubuntu.com/&#34;&gt;Ubuntu&lt;/a&gt; &lt;a href=&#34;http://releases.ubuntu.com/precise/&#34;&gt;12.04 LTS&lt;/a&gt; that came out during the last week of April.&lt;/p&gt;&#xA;&lt;p&gt;Since I had written that &lt;a href=&#34;https://protoiyer.github.io/posts/setting-up-linux-11.04-ror/&#34;&gt;previous post&lt;/a&gt; in such detail, I will just jot down the steps in this one. This is more for my reference, but may be it will be of use to someone as well. Also, that post came in quite handy during the current setup and so I hope I would refer back to this one as well in future.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vim at 20: Simply the Best Text Editor</title>
       <link>https://protoiyer.github.io/posts/vim-at-20-simply-the-best-text-editor/</link>
