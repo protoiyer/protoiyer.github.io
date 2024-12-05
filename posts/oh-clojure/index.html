@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Oh Clojure! | Protos Musings</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="I am an ardent fan of Functional programming and in particular the Lisp family of languages. Clojure stands out in that list due to it being a modern and brilliant Lisp. It is one of the best ways to weed out accidental complexity (usually introduced by languages like Java) and worry about only the essential complexity of a problem. We are all indebted to Rich Hickey for creating Clojure, piggy-backing on the JVM, and later ClojureScript that targets JavaScript.">
+    <meta name="generator" content="Hugo 0.138.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="https://protoiyer.github.io/posts/oh-clojure/">
+    
+
+    <meta property="og:url" content="https://protoiyer.github.io/posts/oh-clojure/">
+  <meta property="og:site_name" content="Protos Musings">
+  <meta property="og:title" content="Oh Clojure!">
+  <meta property="og:description" content="I am an ardent fan of Functional programming and in particular the Lisp family of languages. Clojure stands out in that list due to it being a modern and brilliant Lisp. It is one of the best ways to weed out accidental complexity (usually introduced by languages like Java) and worry about only the essential complexity of a problem. We are all indebted to Rich Hickey for creating Clojure, piggy-backing on the JVM, and later ClojureScript that targets JavaScript.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2020-04-19T22:55:40+00:00">
+    <meta property="article:modified_time" content="2020-04-19T22:55:40+00:00">
+    <meta property="article:tag" content="Programming">
+
+  <meta itemprop="name" content="Oh Clojure!">
+  <meta itemprop="description" content="I am an ardent fan of Functional programming and in particular the Lisp family of languages. Clojure stands out in that list due to it being a modern and brilliant Lisp. It is one of the best ways to weed out accidental complexity (usually introduced by languages like Java) and worry about only the essential complexity of a problem. We are all indebted to Rich Hickey for creating Clojure, piggy-backing on the JVM, and later ClojureScript that targets JavaScript.">
+  <meta itemprop="datePublished" content="2020-04-19T22:55:40+00:00">
+  <meta itemprop="dateModified" content="2020-04-19T22:55:40+00:00">
+  <meta itemprop="wordCount" content="350">
+  <meta itemprop="keywords" content="Programming">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Oh Clojure!">
+  <meta name="twitter:description" content="I am an ardent fan of Functional programming and in particular the Lisp family of languages. Clojure stands out in that list due to it being a modern and brilliant Lisp. It is one of the best ways to weed out accidental complexity (usually introduced by languages like Java) and worry about only the essential complexity of a problem. We are all indebted to Rich Hickey for creating Clojure, piggy-backing on the JVM, and later ClojureScript that targets JavaScript.">
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Protos Musings
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Posts
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Oh Clojure!</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-04-19T22:55:40Z">April 19, 2020</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>I am an ardent fan of <a href="https://en.wikipedia.org/wiki/Functional_programming">Functional programming</a> and in particular the <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp family of languages</a>. <a href="https://clojure.org/">Clojure</a> stands out in that list due to it being a modern and brilliant Lisp. It is one of the best ways to weed out accidental complexity (usually introduced by languages like Java) and worry about only the essential complexity of a problem. We are all indebted to <a href="https://en.wikipedia.org/wiki/Rich_Hickey">Rich Hickey</a> for creating <a href="https://clojure.org/">Clojure</a>, piggy-backing on the JVM, and later <a href="https://clojurescript.org/">ClojureScript</a> that targets JavaScript.</p>
+<p>It is indeed a pleasure that some of the concepts of Functional programming has trickled into the mainstream programming languages like Java and C#. The other Functional programming languages I have dabbled with include <a href="https://www.haskell.org/">Haskell</a>, <a href="https://www.scheme.org/">Scheme</a>, <a href="https://www.racket-lang.org/">Racket</a>, <a href="https://elixir-lang.org/">Elixir</a>, <a href="https://www.scala-lang.org/">Scala</a>, <a href="https://fsharp.org/">F#</a> and <a href="https://elm-lang.org/">Elm</a> among others.</p>
+<p>But Clojure stands out, for me at least, as the language I felt most joy coding with (with Ruby in the second place).</p>
+<p>This interest in Functional programming flowed from perusing books and articles including <a href="https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar">The Cathedral and the Bazaar</a> by Eric S. Raymond, and the excellent, thought-provoking posts by <a href="https://twitter.com/paulg">Paul Graham</a> including <a href="https://www.paulgraham.com/icad.html">Revenge of the Nerds</a> and <a href="https://www.paulgraham.com/avg.html">Beating the Averages</a>.</p>
+<p>Though there are a number of books, blog posts and videos on Clojure, it would be remiss if I don&rsquo;t mention the ones that I found most useful. In no particular order:</p>
+<p><a href="https://changelog.com/posts/rich-hickeys-greatest-hits">Rich Hickey&rsquo;s greatest hits</a> &ndash; &ldquo;Rich Hickey, the creator of Clojure, is consistent in delivering fantastic, thought-provoking talks.&rdquo;</p>
+<p>From <a href="https://twitter.com/unclebobmartin">Uncle Bob Martin</a>:</p>
+<p><a href="https://www.youtube.com/watch?v=P2yr-3F6PQo">The Last Programming Language</a></p>
+<p><a href="https://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html">Why Clojure?</a></p>
+<p><a href="https://blog.cleancoder.com/uncle-bob/2020/04/06/ALittleClojure.html">A Little Clojure</a></p>
+<p><a href="https://blog.cleancoder.com/uncle-bob/2020/04/09/ALittleMoreClojure.html">A Little More Clojure</a></p>
+<p>Perhaps the best of these articles &ndash; <a href="https://itrevolution.com/articles/love-letter-to-clojure-part-1/">Love Letter To Clojure (Part 1)</a> by <a href="https://x.com/RealGeneKim">Gene Kim</a> of the <a href="https://itrevolution.com/product/the-unicorn-project/">The Unicorn Project</a> and <a href="https://itrevolution.com/product/the-phoenix-project/">The Phoenix Project</a> fame (awesome books them, btw!).</p>
+<p>Many Clojure books are <a href="https://clojure.org/community/books">listed here</a>, but the ones that I found most useful would include:</p>
+<p><a href="https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/">Seven Languages in Seven Weeks</a> by <a href="https://twitter.com/redrapids">Bruce A. Tate</a></p>
+<p><a href="https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/">Programming Clojure, Third Edition</a> by <a href="https://insideclojure.org/about/">Alex Miller</a> with <a href="https://www.cognitect.com/authors/StuartHalloway.html">Stuart Halloway</a> and <a href="https://twitter.com/abedra">Aaron Bedra</a>.</p>
+<p><a href="https://pragprog.com/titles/roclojure/getting-clojure/">Getting Clojure</a> by <a href="https://twitter.com/russolsen">Russ Oslen</a></p>
+<p>And then there are the classic Lisp books and for want of time, I am not venturing into listing them.</p>
+<p>Happy coding and thanks for reading!</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/programming/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Programming</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/setting-up-macbook/">Setting up my Macbook development environment</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/setting-up-linux-12.04-ror/">Setting up my Linux box and Ruby on Rails - Ubuntu 12.04 Edition</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/vim-at-20-simply-the-best-text-editor/">Vim at 20: Simply the Best Text Editor</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/setting-up-linux-11.04-ror/">Setting up my Linux box and Ruby on Rails development environment</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/ten-years-of-professional-programming/">Ten Years of Professional Programming</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2010-the-year-of-revival-of-tech-book-reading/">2010 - The Year of Revival of Tech Book Reading</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/how-to-be-a-better-programmer-the-redux-part-2/">How to be a better programmer - the redux 2</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/how-to-be-a-better-programmer-the-redux/">How to be a better programmer - the redux</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/professional-programmer-and-domain-knowledge/">Professional Programmer and Domain Knowledge</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/dravid-on-the-right-people-in-a-team/">Dravid on the &#34;right&#34; people in a team</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/seven-habits-of-highly-effective-programmers/">Seven Habits of Highly Effective Programmers</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/becoming-a-better-programmer/">Becoming a better programmer</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://protoiyer.github.io/" >
+    &copy;  Protos Musings 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
